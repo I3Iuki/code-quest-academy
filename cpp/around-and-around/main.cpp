@@ -1,15 +1,20 @@
 #include <iostream>
 #include <numbers>
 #include <cmath>
+#include <iomanip>
 
-double eRadius = (40075 / std::numbers::pi) / 2 
+const double PI = acos(-1.0);
+const double eRadius = (40075.0 / PI) / 2.0; 
 
 int main() {
     int cases;
     std::cin >> cases;
+
+    std::cout << std::fixed << std::setprecision(1);
+    
     for (int i = 0; i < cases; i++) {
         double a;
         std::cin >> a;
-        std::cout << (std::round((((eRadius + a) * 2) * std::numbers::pi) * 100.0) / 100);
+        std::cout << ((((eRadius + a) * 2) * PI) * 100.0) / 100.0 << "\n";
     }
 }
