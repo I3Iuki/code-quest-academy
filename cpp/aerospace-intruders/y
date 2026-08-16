@@ -1,0 +1,180 @@
+Netid State   Recv-Q Send-Q                                          Local Address:Port       Peer Address:Port      Process
+u_str ESTAB   0      0                                                           * 269512                * 271546           
+u_str ESTAB   0      0                                 /run/systemd/journal/stdout 15517                 * 7309             
+u_str ESTAB   0      0                                 /run/dbus/system_bus_socket 13437                 * 17516            
+u_str ESTAB   0      0                                                           * 10475                 * 10474            
+u_str ESTAB   0      0                                                           * 17522                 * 11439            
+u_str ESTAB   0      0                                                           * 12303                 * 12302            
+u_str ESTAB   0      0                                                           * 15368                 * 0                
+u_str ESTAB   0      0                                 /run/systemd/journal/stdout 3469                  * 14380            
+u_str ESTAB   0      0                                 /run/dbus/system_bus_socket 2393                  * 10335            
+u_str ESTAB   0      0        /run/user/1000/a24d489612e59be2eaa397e0c8089848.sock 271547                * 268575           
+u_str ESTAB   0      0                                                           * 16945                 * 16946            
+u_str ESTAB   0      0                                                           * 252721                * 252722           
+u_str ESTAB   0      0                                                           * 10474                 * 10475            
+u_str ESTAB   0      0                                                           * 12315                 * 12314            
+u_str ESTAB   0      0            /tmp/pipe_{81A6C410-823B-41B6-B3CD-008D8B7FD37D} 252812                * 0                
+u_str ESTAB   0      0                                                           * 8388                  * 8389             
+u_str ESTAB   0      0                                                           * 10471                 * 10472            
+u_str ESTAB   0      0                                                           * 9233                  * 9232             
+u_str ESTAB   0      0        /run/user/1000/97c366b9651f26c8eef8940463d11c57.sock 271546                * 269512           
+u_str ESTAB   0      0                                                           * 271435                * 271434           
+u_str ESTAB   0      0                                                           * 10477                 * 10476            
+u_str ESTAB   0      0                                                           * 17519                 * 17518            
+u_str ESTAB   0      0            /tmp/pipe_{075A55E8-2C08-4791-8333-D7E8D8732010} 14911                 * 0                
+u_dgr ESTAB   0      0                                                           * 7323                  * 5007             
+u_str ESTAB   0      0                                                           * 9420                  * 7291             
+u_str ESTAB   354    0                                                           * 252719                * 252720           
+u_dgr ESTAB   0      0                                                           * 74                    * 5007             
+u_str ESTAB   0      0                                                           * 10481                 * 10480            
+u_dgr ESTAB   0      0                                                           * 2368                  * 5007             
+u_str ESTAB   0      0                                 /run/systemd/journal/stdout 15451                 * 8278             
+u_dgr ESTAB   0      0                                                           * 10317                 * 5007             
+u_str ESTAB   0      0                                                           * 264488                * 264487           
+u_dgr ESTAB   0      0                                                           * 11357                 * 11358            
+u_str ESTAB   0      0                                           /tmp/.X11-unix/X0 11436                 * 4982             
+u_dgr ESTAB   0      0                                         /run/systemd/notify 4988                  * 0                
+u_str ESTAB   0      0                                                           * 264484                * 264483           
+u_str ESTAB   0      0                                                           * 8278                  * 15451            
+u_dgr ESTAB   0      0                                /run/systemd/journal/dev-log 5005                  * 0                
+u_str ESTAB   0      0                                                           * 12314                 * 12315            
+u_dgr ESTAB   0      0                                 /run/systemd/journal/socket 5007                  * 0                
+u_str ESTAB   0      0                                                           * 252722                * 252721           
+u_str ESTAB   0      0                                                           * 17179                 * 17180            
+u_str ESTAB   0      0                                                           * 252814                * 252813           
+u_str ESTAB   0      0                                 /run/systemd/journal/stdout 192                   * 17513            
+u_str ESTAB   0      0                                                           * 262695                * 271545           
+u_str ESTAB   0      0                                                           * 271430                * 271431           
+u_dgr ESTAB   0      0                                                           * 7335                  * 7336             
+u_str ESTAB   0      0                                                           * 8392                  * 8393             
+u_str ESTAB   0      0                                                           * 2391                  * 2390             
+u_str ESTAB   0      0                                                           * 17518                 * 17519            
+u_str ESTAB   0      0                                                           * 271433                * 271432           
+u_dgr ESTAB   0      0                                                           * 2376                  * 2375             
+u_str ESTAB   0      0                                                           * 8395                  * 8394             
+u_str ESTAB   0      0                                 /run/dbus/system_bus_socket 13452                 * 7338             
+u_str ESTAB   0      0                                 /run/systemd/journal/stdout 3451                  * 10304            
+u_dgr ESTAB   0      0                                                           * 2375                  * 2376             
+u_str ESTAB   0      0                                                           * 264486                * 264485           
+u_str ESTAB   0      0                                                           * 271434                * 271435           
+u_str ESTAB   0      0                                                           * 14380                 * 3469             
+u_str ESTAB   0      0                                 /run/dbus/system_bus_socket 2396                  * 3481             
+u_str ESTAB   0      0                                                           * 17513                 * 192              
+u_str ESTAB   0      0                                                           * 2354                  * 3452             
+u_dgr ESTAB   0      0                                                           * 17488                 * 5007             
+u_str ESTAB   0      0                                                           * 264482                * 264481           
+u_str ESTAB   0      0                                                           * 17516                 * 13437            
+u_str ESTAB   0      0                                                           * 271431                * 271430           
+u_dgr ESTAB   0      0                                                           * 9308                  * 5005             
+u_dgr ESTAB   0      0                                                           * 6176                  * 4988             
+u_str ESTAB   0      0                                                           * 264487                * 264488           
+u_str ESTAB   0      0                                 /run/systemd/journal/stdout 3461                  * 9306             
+u_str ESTAB   0      0                                                           * 8391                  * 8390             
+u_str ESTAB   0      0                                                           * 10472                 * 10471            
+u_str ESTAB   0      0                                                           * 264485                * 264486           
+u_str ESTAB   0      0                                 /run/dbus/system_bus_socket 2394                  * 2387             
+u_str ESTAB   0      0                                                           * 12313                 * 12312            
+u_str ESTAB   0      0                                                           * 2242                  * 2241             
+u_dgr ESTAB   0      0                                                           * 7318                  * 5005             
+u_str ESTAB   0      0                                                           * 8390                  * 8391             
+u_str ESTAB   0      0                                                           * 2390                  * 2391             
+u_str ESTAB   0      0                                                           * 7309                  * 15517            
+u_str ESTAB   0      0                                                           * 8393                  * 8392             
+u_str ESTAB   0      0                                                           * 264481                * 264482           
+u_str ESTAB   0      0                                        /tmp/dbus-WPF0bfERAQ 11439                 * 17522            
+u_str ESTAB   0      0                                                           * 9306                  * 3461             
+u_str ESTAB   0      0                                                           * 8389                  * 8388             
+u_str ESTAB   0      0                                 /run/systemd/journal/stdout 3452                  * 2354             
+u_dgr ESTAB   0      0                                                           * 4990                  * 4989             
+u_str ESTAB   0      0                                                           * 271432                * 271433           
+u_str ESTAB   0      0                                                           * 17181                 * 17182            
+u_dgr ESTAB   0      0                                                           * 11355                 * 5007             
+u_str ESTAB   0      0                                                           * 8394                  * 8395             
+u_str ESTAB   0      0                                 /run/systemd/journal/stdout 15447                 * 17471            
+u_str ESTAB   0      0                                                           * 262693                * 0                
+u_str ESTAB   0      0                                                           * 9232                  * 9233             
+u_str ESTAB   0      0                                 /run/systemd/journal/stdout 345156                * 341407           
+u_dgr ESTAB   0      0                                                           * 7336                  * 7335             
+u_str ESTAB   0      0                                                           * 252718                * 252717           
+u_str ESTAB   0      0                                                           * 10304                 * 3451             
+u_str ESTAB   0      0                                 /run/dbus/system_bus_socket 2412                  * 17500            
+u_str ESTAB   0      0                                                           * 10478                 * 10479            
+u_str ESTAB   0      0                                                           * 17180                 * 17179            
+u_dgr ESTAB   0      0                                                           * 4989                  * 4990             
+u_str ESTAB   0      0                                                           * 11349                 * 7192             
+u_str ESTAB   0      0                                                           * 4982                  * 11436            
+u_str ESTAB   0      0            /tmp/pipe_{DD64A895-4826-4D23-9C59-AC353D5CB513} 261463                * 252817           
+u_str ESTAB   0      0                                                           * 2241                  * 2242             
+u_str ESTAB   0      0                                                           * 10480                 * 10481            
+u_str ESTAB   0      0        /run/user/1000/23df5feae8a66abefc33fa2786801141.sock 271545                * 262695           
+u_str ESTAB   0      0                                                           * 12312                 * 12313            
+u_str ESTAB   0      0                                                           * 264483                * 264484           
+u_str ESTAB   0      0                                                           * 16946                 * 16945            
+u_str ESTAB   0      0                                 /mnt/wslg/PulseAudioRDPSink 7291                  * 9420             
+u_str ESTAB   0      0                                                           * 12302                 * 12303            
+u_str ESTAB   0      0                                                           * 252813                * 252814           
+u_dgr ESTAB   0      0                                                           * 13432                 * 5005             
+u_str ESTAB   0      0                                                           * 268575                * 271547           
+u_str ESTAB   0      0            /tmp/pipe_{A1327230-EAA7-450D-8BC5-E6FDE3CBBD56} 252725                * 0                
+u_dgr ESTAB   0      0                                                           * 2374                  * 2373             
+u_str ESTAB   0      0                                                           * 341407                * 345156           
+u_str ESTAB   0      0                                                           * 10476                 * 10477            
+u_str ESTAB   0      0                                                           * 252717                * 252718           
+u_dgr ESTAB   0      0                                                           * 12353                 * 5005             
+u_str ESTAB   0      0                                                           * 10479                 * 10478            
+u_str ESTAB   0      0                                                           * 252817                * 261463           
+u_str ESTAB   0      0                                                           * 17471                 * 15447            
+u_dgr ESTAB   0      0                                                           * 2373                  * 2374             
+u_dgr ESTAB   0      768                                                         * 11358                 * 11357            
+u_dgr ESTAB   0      0                                                           * 8289                  * 5005             
+u_str ESTAB   0      0                                 /run/systemd/journal/stdout 7192                  * 11349            
+u_str ESTAB   0      0                                                           * 17182                 * 17181            
+u_str ESTAB   0      2048                                                        * 252720                * 252719           
+u_str ESTAB   0      0                 @f496dcfe85f55890/bus/systemd-logind/system 17500                 * 2412             
+u_str ESTAB   0      0      @e616209cb9665d8e/bus/systemd-timesyn/bus-api-timesync 2387                  * 2394             
+u_str ESTAB   0      0       @8d7f18ad898862cf/bus/systemd-resolve/bus-api-resolve 10335                 * 2393             
+u_str ESTAB   0      0                @e32f9da7a97f3530/bus/systemd/bus-api-system 3481                  * 2396             
+u_str ESTAB   0      0                    @c13d45c7ef8af71a/bus/systemd/bus-system 7338                  * 13452            
+tcp   ESTAB   0      0                                                   127.0.0.1:34486         127.0.0.1:41063            
+tcp   ESTAB   0      2169                                                127.0.0.1:34498         127.0.0.1:41063            
+tcp   ESTAB   0      0                                              172.25.239.213:33292       20.42.73.30:https            
+tcp   ESTAB   0      970                                                 127.0.0.1:41063         127.0.0.1:34486            
+tcp   ESTAB   891    0                                                   127.0.0.1:41063         127.0.0.1:34498            
+v_str ESTAB   0      0                                                           *:4226741591            2:50000            
+v_str ESTAB   0      0                                                           *:4226741592            2:50000            
+v_str ESTAB   0      0                                                           *:4226741593            2:50000            
+v_str ESTAB   0      0                                                           *:4226741594            2:50000            
+v_str ESTAB   0      0                                                           *:4226741595            2:50000            
+v_str ESTAB   0      0                                                           *:4226741597            2:50001            
+v_str ESTAB   0      0                                                           *:4226741598            2:50001            
+v_str ESTAB   0      0                                                           *:4226741599            2:50001            
+v_str ESTAB   0      0                                                           *:4226741601            2:50000            
+v_str ESTAB   0      0                                                           *:4226741602            2:50000            
+v_str ESTAB   0      0                                                           *:4226741603            2:50002            
+v_str ESTAB   0      0                                                           *:4226741606            2:50002            
+v_str ESTAB   0      0                                                           *:4226741608            2:3213286345       
+v_str ESTAB   0      0                                                           *:1                     2:3213286349       
+v_str ESTAB   0      0                                                           *:4226741618            2:3213286430       
+v_str ESTAB   0      0                                                           *:4226741619            2:3213286435       
+v_str ESTAB   0      0                                                           *:4226741619            2:3213286434       
+v_str ESTAB   0      0                                                           *:4226741619            2:3213286433       
+v_str ESTAB   0      0                                                           *:4226741619            2:3213286432       
+v_str ESTAB   0      0                                                           *:4226741619            2:3213286431       
+v_str ESTAB   0      0                                                           *:4226741622            2:3213286452       
+v_str ESTAB   0      0                                                           *:4226741623            2:3213286457       
+v_str ESTAB   0      0                                                           *:4226741623            2:3213286456       
+v_str ESTAB   0      0                                                           *:4226741623            2:3213286455       
+v_str ESTAB   0      0                                                           *:4226741623            2:3213286454       
+v_str ESTAB   0      0                                                           *:4226741623            2:3213286453       
+v_str ESTAB   0      0                                                           *:4226741620            2:3213286441       
+v_str ESTAB   0      0                                                           *:4226741621            2:3213286446       
+v_str ESTAB   0      0                                                           *:4226741621            2:3213286445       
+v_str ESTAB   0      0                                                           *:4226741621            2:3213286444       
+v_str ESTAB   0      0                                                           *:4226741621            2:3213286443       
+v_str ESTAB   0      0                                                           *:4226741621            2:3213286442       
+v_str ESTAB   0      0                                                           *:4226741600            2:3213286334       
+v_str ESTAB   0      0                                                           *:4226741604            2:3213286336       
+v_str ESTAB   0      0                                                           *:4226741605            2:3213286342       
+v_str ESTAB   0      0                                                           *:4226741605            2:3213286341       
+v_str ESTAB   0      0                                                           *:4226741605            2:3213286340       
+v_str CLOSING 0      0                                                           *:4226741605            2:3213286339       
